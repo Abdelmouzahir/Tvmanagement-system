@@ -1,0 +1,1 @@
+ TV Management app in Java! 🚀 Seamlessly handle subscriptions, select channel packages, and calculate fees with a user-friendly interface. Save and load subscriptions for easy access. Proud of this Java Swing project! hashtag#Java hashtag#Swing hashtag#SoftwareDev 🌐💻
